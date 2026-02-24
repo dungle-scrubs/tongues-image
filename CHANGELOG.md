@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.1](https://github.com/dungle-scrubs/tongues/compare/tongues-v0.2.0...tongues-v0.2.1) (2026-02-24)
+
+
+### Fixed
+
+* **ci:** move npm publish into release workflow ([#7](https://github.com/dungle-scrubs/tongues/issues/7)) ([142b2da](https://github.com/dungle-scrubs/tongues/commit/142b2dae8263ffef9e458fc3d4b404b15521d178))
+
+
+### Maintenance
+
+* add missing tests and bump CI actions ([#8](https://github.com/dungle-scrubs/tongues/issues/8)) ([f2c02c1](https://github.com/dungle-scrubs/tongues/commit/f2c02c1e22b35433ce72bdd7e7d968dc5052e273))
+
 ## [0.2.0](https://github.com/dungle-scrubs/tongues/compare/tongues-v0.1.1...tongues-v0.2.0) (2026-02-24)
 
 
